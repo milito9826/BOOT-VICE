@@ -1,0 +1,33 @@
+---
+login : "milo_9826"
+password : "3014708032*"
+debug: 0
+follow_time: 1209600
+like_per_run: 700
+comments_per_day: 100
+follow_time: 18000
+time_till_unlike: 350000
+# max_like_for_one_tag: 5
+comments_per_day: 350
+
+# comment_list:  [
+            #["Que", "Excelente"],          
+            #[
+            #    "Foto",
+           #     "Espectacular",
+          #  ],
+         #   [".", "..", "...", "!", "!!", "!!!"],
+      #  ]
+tag_list: ['l:213236545']
+# keywords: ['Rumba', 'Rumbas', 'Fiesta', 'Fiestas', 'FiestasInfantiles', 'Medellín', 'Medellin', '', ]
+keywords: ['love', 'instagood', 'photooftheday', 'fashion', 'beautiful', 'happy', 'cute', 'tbt', 'like4like', 'followme', 'picoftheday', 'follow', 
+'me', 'selfie', 'summer', 'art', 'instadaily', 'friends', 'repost', 'nature', girl'', 'fun', 'style','smile', 'food']
+follow_per_run: 100
+follow_time: 120000
+unfollow_per_run: 5
+# unfollow_break_min: 3
+# unfollow_break_max: 17
+unfollow_selebgram: false
+unfollow_probably_fake: false
+unfollow_inactive: true
+unfollow_recent_feed: false

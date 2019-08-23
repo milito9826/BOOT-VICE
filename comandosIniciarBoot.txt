@@ -1,0 +1,3 @@
+Para iniciar sesion: instabot-py --login cuenta --password clave
+
+para iniciar configuaacion propia: instabot-py -c sample.instabot.config.yml 
